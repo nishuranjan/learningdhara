@@ -584,7 +584,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 ***/
 .rev_slider .slide-content-box {
     border: 2px solid #d1d0cb;
-    padding: 22px 50px 40px;
+    padding: 22px 50px 40px;    
 }
 .rev_slider .slide-content-box h1 {
     color: #4008a8;
@@ -595,12 +595,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     margin: 0 0 25px;
 }
 .rev_slider .slide-content-box h3 {
-    color: #f5f106;
+    color: #4008a8;
     font-size: 24px;
     font-weight: 300;
     line-height: 36px;
     font-family: 'Montserrat', sans-serif;
     margin: 0 0 40px;
+    background: #faf9f9;
 }
 .rev_slider .slide-content-box .buttons a {
     color: #ffffff;
